@@ -1,4 +1,4 @@
-# portf
+# portfolio
 📄 Resume You can find my ATS‑friendly resume here:
 
 Download Resume (PDF)
