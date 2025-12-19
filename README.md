@@ -34,7 +34,7 @@ Email: [nosiphon88@gmail.com]
 
 LinkedIn: [www.linkedin.com/in/nosipho-nkwanyana-399607277]
 
-Portfolio Website: [https://sites.google.com/view/nosiphonkwanyanaaiportfolio]
+Portfolio Website: [https://ai-portfolio-builder-04d1cbc8.base44.app]
 
 ✨ About This Repository This repository serves as a central hub for my professional work:
 
